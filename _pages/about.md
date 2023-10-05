@@ -16,11 +16,3 @@ You can find my CV here: [Guanhua's Curriculum Vitae](../assets/Curriculum_Vitae
 
 [Email](你的邮箱) / [Github](guanhua-wang.github.io) 
 
-
-
-
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
