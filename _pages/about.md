@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master student from [Shanghai Ocean University](https://www.shou.edu.cn/) . My research interest includes ciliate, Molecular Phylogenetics, Taxonomy, DNA Sequencing, Species Diversity, Endosymbiotic.
+I'm a master student from [Shanghai Ocean University](https://www.shou.edu.cn). My research interest includes ciliate, Molecular Phylogenetics, Taxonomy, DNA Sequencing, Species Diversity, Endosymbiotic.
 
 I am very fortunate to be advised by  [Prof. Jiamei Jiang](https://www.researchgate.net/profile/Jiamei-Jiang) . I was also advised by [Prof. Hongbo Pan](https://www.researchgate.net/profile/Hongbo-Pan-3) from Shanghai Ocean University.
 
