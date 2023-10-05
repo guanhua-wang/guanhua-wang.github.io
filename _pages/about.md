@@ -15,4 +15,3 @@ I am very fortunate to be advised by  [Prof. Jiamei Jiang](https://www.researchg
 You can find my CV here: [Guanhua's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](你的邮箱) / [Github](guanhua-wang.github.io) 
-
